@@ -1,0 +1,39 @@
+/* EXTERNAL CSS */
+
+
+.ortala{
+    text-align:center;
+    list-style-position: inside;
+}
+
+
+h1,h2 {
+    text-align:center;
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Syne Tactile', cursive;
+    color: #FC4F4F;
+}
+   
+h3,h4 {
+    font-style: italic;
+    color: #B3541E;
+}
+
+
+body {
+    background-color: #B9AC92;
+}
+
+a {
+    color: black;
+    
+}
+.kutu {
+    width: 250px;
+    padding: 10px;
+    border: 5px solid #FC4F4F;;
+    margin: 10px;
+}
+
+
